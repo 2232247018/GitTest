@@ -1,2 +1,2 @@
 # GitTest
-just first for hgl
+just first for new branch
